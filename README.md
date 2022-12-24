@@ -16,9 +16,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 Relevant screenshots.
 
-
-    
-    ![Horizeon Pic](https://user-images.githubusercontent.com/104108239/209452769-321d2a26-d717-4aee-823e-08b4ea4f287b.png)
+![Horizeon Pic](https://user-images.githubusercontent.com/104108239/209452892-2970c57a-4917-4c83-9182-6c93b384f3d2.png)
 
 
 ## Credits
