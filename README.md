@@ -2,7 +2,7 @@
 
 ## Description
 
-In this challenge, I refactored an existing site to make it more accessible. Starter code was already been provided. My responsibility was to make sure that all links are functioning correctly. The CSS has been reworked to make it more efficient by consolidating CSS selectors and properties. The HTML has been organized to follow the semantic structure, and comments have been included before each element or section of the page.
+In this challenge, I refactored an existing site to make it more accessible. Starter code had already been provided. My responsibility was to ensure that all links are functioning correctly. The CSS has been reworked to make it more efficient by consolidating CSS selectors and properties. The HTML has been organized to follow the semantic structure, and comments have been included before each element or section of the page.
 
 ## Table of Contents (Optional)
 
