@@ -1,20 +1,21 @@
+/* This styling is universal. It applies throughout the site */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* This is the site's background color. A hex value has been used. */
 body {
     background-color: #d9dcd6;
 }
-
+/* This class applies padding for extra white spaces around the text, has available fonts for our text, background color for the header, text color. */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* For any h1 headings in the class header, for the display the top and bottom margins/paddings are respected. Font size for the h1 headings in this class is shown. */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -40,12 +41,12 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Shows the color for all links within the site. No special decoration is given to links. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* This is for the size of all paragraph text. */
 p {
     font-size: 16px;
 }
@@ -85,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Any elements with this class will have the given margin below them & the assigned color. */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
