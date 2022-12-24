@@ -31,7 +31,7 @@ If you followed tutorials, include links to those here as well.
 
 MIT License
 
-Copyright (c) [2022] [Daliso Wasa]
+Copyright (c) [2019] [Horiseon Social Solution Services, Inc.]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
