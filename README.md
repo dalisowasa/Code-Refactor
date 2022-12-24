@@ -9,6 +9,7 @@ In this challenge, I am refactoring an existing site to make it more accessible.
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Usage](#usage)
+- [Credits](#credits)
 - [License](#license)
 
 ## Usage
