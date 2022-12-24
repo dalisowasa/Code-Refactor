@@ -1,2 +1,1 @@
-# Code-Refactor
-Refactoring existing code with Semantic Elements.
+# Code Refactor Starter Code
