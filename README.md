@@ -4,12 +4,9 @@
 
 In this challenge, I refactored an existing site to make it more accessible. Starter code had already been provided. My responsibility was to ensure that all links are functioning correctly. The CSS has been reworked to make it more efficient by consolidating CSS selectors and properties. The HTML has been organized to follow the semantic structure, and comments have been included before each element or section of the page.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
 
 ## Usage
@@ -18,14 +15,6 @@ Relevant screenshots.
 
 ![Horizeon Pic](https://user-images.githubusercontent.com/104108239/209452892-2970c57a-4917-4c83-9182-6c93b384f3d2.png)
 
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
